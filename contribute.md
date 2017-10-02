@@ -2,15 +2,16 @@
 
 <H1>Contributing to this repo</H1>
 <br>
-Contribute solutions Kaggle contests.
+<H5>Contribute solutions Kaggle contests.</H5>
 Whenever adding a new contest, make a new folder for that and add readme file for link to contest if it doesn't exist already.
 You can upload solutions in R or python. It would be wonderful if you add Jupyter notebooks for exploratory data analysis.
-
-How To:
+<br>
+<br>
+<H5>How To:</H5>
 <br>
 git clone https://github.com/vermashresth/Kaggle-Contests.git
 
-git checkout -b <Branch-Name>
+git checkout -b "Branch-Name"
 
 Give your code meaningful nam based on methods used.
 
@@ -18,14 +19,14 @@ add all your files using git add
 
 commit your file changes git commit -m "Whatever you did"
 
-push your changes git push origin <Branch-Name>
+push your changes git push origin "Branch-Name"
 
 Create a Pull Request to master
 
 <br>
-Via Web:
+<h5>Via Web:</h5>
 <br>
-
+<br>
 Fork Repo on Web Page
 
 Clone the forked Repo
