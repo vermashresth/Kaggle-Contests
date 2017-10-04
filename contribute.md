@@ -1,25 +1,25 @@
 
 
-<H1>Contributing to this repo</H1>
+<H1>Contributing to this repository</H1>
 <br>
-<H3>Contribute solutions Kaggle contests.</H3>
-Whenever adding a new contest, make a new folder for that and add readme file for link to contest if it doesn't exist already.
-You can upload solutions in R or python. It would be wonderful if you add Jupyter notebooks for exploratory data analysis.
+<H3>You can contribute solutions of different Kaggle contests.</H3>
+Whenever you add a new contest, make a new folder for that and add Readme.md file for link to the contest if it doesn't exist already.
+You can upload solutions in R or Python Language. It would be wonderful if you add Jupyter notebooks for exploratory data analysis.
 <br>
 <br>
-<H3>How To:</H3>
+<H3>How To access the repo:</H3>
 <br>
 git clone https://github.com/vermashresth/Kaggle-Contests.git
 
 git checkout -b "Branch-Name"
 
-Give your code meaningful nam based on methods used.
+Give your code a meaningful name based on methods used.
 
-add all your files using git add
+Add all of your files using-> git add
 
-commit your file changes git commit -m "Whatever you did"
+Commit your file changes using -> git commit -m "Whatever you did"
 
-push your changes git push origin "Branch-Name"
+push your changes -> git push origin "Branch-Name"
 
 Create a Pull Request to master
 
@@ -32,6 +32,6 @@ Clone the forked Repo
 
 Make your changes on your forked repo
 
-Make Pull Request to master
+Make a Pull Request to master
 
 
