@@ -234,7 +234,7 @@ Xtest = pad_sequences(encoded_docs, maxlen=max_length, padding='post')
 # define test labels
 ytest = array([0 for _ in range(100)] + [1 for _ in range(100)])
 
-# define vocabulary size (largest integer value)
+
 vocab_size = len(tokenizer.word_index) + 1
 
 
