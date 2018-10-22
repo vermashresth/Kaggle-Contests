@@ -1,2 +1,3 @@
 # Kaggle-Contests
-Archive of solutions to various datasets and contests on Kaggle. You may add your solution, in the folder corresponding to the contest. If its a new contest, create a new folder for the same.
+An Archive of solutions to various datasets and contests on Kaggle. The solutions also include multiple approaches for the same problem which can serve as a baseline for an initial attempt at the task.
+Interested in adding your own solution? See [contributing.md](contributing.md)
